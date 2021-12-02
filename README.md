@@ -87,7 +87,7 @@ Freelance, _2018 - Present_
 ## Notable Open Source Projects
 
 
-### [Ray Trace]()
+### [Ray Tracing](https://github.com/dyklein/Ray-tracing)
 
 #### A ray tracing graphics engine written in Java designed to produce realistic images given the description of a scene
 
